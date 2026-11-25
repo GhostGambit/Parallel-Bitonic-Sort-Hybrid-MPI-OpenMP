@@ -6,3 +6,5 @@ Makefile text eol=lf
 *.hpp text eol=lf
 *.cpp text eol=lf
 *.csv text eol=lf
+*.pdf binary
+*.png binary
